@@ -1,0 +1,40 @@
+/* SECTION APP FOOTER  */
+.app-footer {
+  line-height: 2rem;
+  background: #212121;
+  padding-top: 78px;
+  padding-bottom: 95px;
+}
+.app-footer__box h5 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  color: #e2524a;
+}
+.app-footer__box a {
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+}
+.app-footer__box a:hover {
+  color: #e2524a;
+}
+.app-footer__box p {
+  margin-bottom: 0px;
+  color: #ffffff;
+}
+.app-footer__box span {
+  margin-right: 10px;
+}
+
+/* SECTION COPYRIGHT  */
+
+.copyright {
+  background-color: #e2524a;
+  padding: 12px 0;
+}
+.copyright p {
+  font-family: "Times New Roman", Times, serif;
+  color: #dcdcdc;
+  margin-bottom: 0;
+}
